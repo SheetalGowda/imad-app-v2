@@ -9,4 +9,4 @@ img.style.marginLeft=marginLeft+'px';
 }
 img.OnClick=function(){
     var interval=setInterval(moveRight,50);
-}
+};
